@@ -18,6 +18,25 @@
 - 一键把整份日历订阅到 iPhone、Mac、Outlook、Google 日历
 - 浏览免费；报名一律在主办方官方页面完成，本站不代收费用、不代报名
 
+### 网站预览 / Screenshots
+
+| 首页 | AI 赛事库（79 项） |
+| --- | --- |
+| [![湾区 AI 日历首页](https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-events/main/screenshots/home.png)](https://wqai.ltd) | [![AI 赛事库](https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-events/main/screenshots/races.png)](https://wqai.ltd/calendar/race/index.html) |
+| **活动详情页** | **OPC 社区与空间（125 个点位）** |
+| [![活动详情页](https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-events/main/screenshots/event.png)](https://wqai.ltd/calendar/event/ici-week-2026.html) | [![OPC 社区地图](https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-opc/main/screenshots/map.png)](https://wqai.ltd/space/map.html) |
+
+**手机版 / Mobile**
+
+<p>
+  <a href="https://wqai.ltd"><img src="https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-events/main/screenshots/mobile-home.png" width="30%" alt="手机版首页"></a>
+  <a href="https://wqai.ltd/calendar/race/index.html"><img src="https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-events/main/screenshots/mobile-races.png" width="30%" alt="手机版赛事库"></a>
+  <a href="https://wqai.ltd/space/index.html"><img src="https://raw.githubusercontent.com/tgchtggn29-bit/gba-ai-opc/main/screenshots/mobile-space.png" width="30%" alt="手机版 OPC 名录"></a>
+</p>
+
+> 完整截图（活动 / 赛事 / 城市 / 资讯 / 订阅 共 18 张）见 [**gba-ai-events**](https://github.com/tgchtggn29-bit/gba-ai-events)；
+> OPC 社区、九市政策与白皮书截图（10 张）见 [**gba-ai-opc**](https://github.com/tgchtggn29-bit/gba-ai-opc)。
+
 ### 快速入口
 
 | 入口 | 链接 |
